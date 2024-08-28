@@ -1,5 +1,5 @@
 const messages = [
-  "Learn React ⚛️",
+  "Learn React in a good way ⚛️",
   "Apply for jobs 💼",
   "Invest your new income 🤑",
 ];
